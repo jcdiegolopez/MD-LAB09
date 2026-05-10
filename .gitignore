@@ -1,0 +1,21 @@
+# Imágenes generadas por el notebook (ya están embebidas en main.ipynb)
+*.png
+
+# Archivos temporales de lectura/debug
+nb_content*.txt
+*.py
+
+# PDF de instrucciones
+Laboratorio_9_RNA_2026.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Archivos de entorno
+.env
+*.env
