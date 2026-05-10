@@ -2,7 +2,6 @@
 *.png
 
 # Archivos temporales de lectura/debug
-nb_content*.txt
 *.py
 
 # PDF de instrucciones
