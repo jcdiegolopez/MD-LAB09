@@ -6,6 +6,7 @@
 
 # PDF de instrucciones
 Laboratorio_9_RNA_2026.pdf
+*.docx
 
 # Python cache
 __pycache__/
